@@ -4,3 +4,6 @@ clickhouse_packages:
   - clickhouse-client
   - clickhouse-server
   - clickhouse-common-static
+
+vector_version: "0.44.0"
+vector_version_suffix: "1"
